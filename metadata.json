@@ -1,0 +1,5 @@
+{
+  "name": "AI T-Shirt Designer",
+  "description": "Generate modern T-shirt designs using AI. Simply describe your vision, and the app will create a unique, print-ready image on a virtual T-shirt mockup.",
+  "requestFramePermissions": []
+}
